@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;  
-using BestRestaurants.Models;
+using HairSalon.Models;
 
-namespace BestRestaurants.Controllers
+namespace HairSalon.Controllers
 {
   public class HomeController : Controller
   {
